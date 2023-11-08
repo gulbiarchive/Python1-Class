@@ -1,0 +1,16 @@
+print('Hello. The current weather in Korea is winter. ')
+print('It\'s really \"cold\", right?')
+print()
+print('You have to be careful not to catch a cold.')
+print()
+print('I watched the news this morning and\nthe weatherman said it was now freezing.')
+print()
+print('Obviously, I thought it was still \'fall\',\nbut time flies so fast that it\'s already winter.')
+print()
+print('What do you think? It\'s soon \"2024\"...')
+print()
+print('Time flies so fast! I need to try to achieve\nall the goals I have set before 2024 comes.')
+print()
+print('What goals have you set?')
+
+
